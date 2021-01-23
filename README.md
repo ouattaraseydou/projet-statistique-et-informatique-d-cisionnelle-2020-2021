@@ -1,0 +1,2 @@
+# projet-statistique-et-informatique-d-cisionnelle-2020-2021
+Le travail consistait à intéresser à certains Caractéristiques parmi les informations recueillis afin de pouvoir analyser et étudier à l’aide de méthode statistique, les établissements les plus convoités par les candidats en 2018 et 2019 en fonction des formations offertes.   Le but est de permettre à mieux contextualiser et faciliter une visualisation rapide d’une réponse à notre problématique pour améliorer et faciliter la compréhension de cette grande quantité d’information.
